@@ -108,6 +108,9 @@ input:focus {
    display: block;
    margin: 1em 0;
 }
+.imgborde {
+border: 5px solid #000000;
+}
         </style>
     </head>
     <body>
@@ -132,7 +135,7 @@ input:focus {
             </div>
             </div>
             <a href="#">
-              <img src="#" id="logo" alt="InfoParking Logo">
+              <img src="../css/images.jpg" style="border-image-outset:" class="imgborde"  id="logo" alt="InfoParking Logo">
             </a>
             <img src="#" id="logoText" alt="InfoParking">      
           </div>
