@@ -51,7 +51,7 @@
     width: 155px;
     float: left;
     margin-left: 30px;
-    margin-top: -20px;
+    margin-top: 20px;
 }
 
 #logoText {
