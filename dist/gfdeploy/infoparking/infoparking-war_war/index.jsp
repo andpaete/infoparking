@@ -99,14 +99,36 @@
     float: inherit;
     background: #58ACFA;
 }
+input:focus {
+   border: 2px solid #00FF00;
+   background: #F3F3F3;
+}
+
+.btn {
+   display: block;
+   margin: 1em 0;
+}
         </style>
     </head>
-   <body>
+    <body>
       <div id="main">
           <div id="header">
             <div id="widgetBar">
+              <fieldset style="border:6px groove #ccc; background:#0404B4;">
+                    <label style="color: #FF8000;text-transform: uppercase"for="usuario">Usuario</label>
+                    <input type="text" name="usuario" id="usuario" />
+                     <label style="color: #FF8000; text-transform: uppercase "for="password">Contraseña</label>
+		    <input type="password" name="password" id="password" />
+                    <input style= "border:6px grovee #ccc; background:#00FF00;text-transform: uppercase"
+                     type="submit" id="login" value="Iniciar sesión" />
+		    <label for="checkbox">
+			<input type="checkbox" id="checkbox" />
+                      Recordarme</label>
+              </fieldset>
+             
+               <br/><br/><br/><br/><br/><br/><br/><br/><br><br>
               <div class="headerWidget">
-                [ Login Administrador ]
+                
             </div>
             </div>
             <a href="#">

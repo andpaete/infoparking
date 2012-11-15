@@ -7,7 +7,7 @@ import persistens.database.infoparking.Caracteristicas;
 import persistens.database.infoparking.CaracteristicasParqueaderosPK;
 import persistens.database.infoparking.Parqueaderos;
 
-@Generated(value="EclipseLink-2.3.0.v20110604-r9504", date="2012-11-14T20:37:52")
+@Generated(value="EclipseLink-2.3.0.v20110604-r9504", date="2012-11-14T23:28:48")
 @StaticMetamodel(CaracteristicasParqueaderos.class)
 public class CaracteristicasParqueaderos_ { 
 

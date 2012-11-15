@@ -7,7 +7,7 @@ import javax.persistence.metamodel.SingularAttribute;
 import javax.persistence.metamodel.StaticMetamodel;
 import persistens.database.infoparking.CaracteristicasParqueaderos;
 
-@Generated(value="EclipseLink-2.3.0.v20110604-r9504", date="2012-11-14T20:37:52")
+@Generated(value="EclipseLink-2.3.0.v20110604-r9504", date="2012-11-14T23:28:48")
 @StaticMetamodel(Caracteristicas.class)
 public class Caracteristicas_ { 
 
