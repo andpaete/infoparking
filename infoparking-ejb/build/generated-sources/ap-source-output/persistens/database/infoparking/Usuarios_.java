@@ -8,7 +8,7 @@ import javax.persistence.metamodel.SingularAttribute;
 import javax.persistence.metamodel.StaticMetamodel;
 import persistens.database.infoparking.Reservas;
 
-@Generated(value="EclipseLink-2.3.0.v20110604-r9504", date="2012-11-14T20:17:54")
+@Generated(value="EclipseLink-2.3.0.v20110604-r9504", date="2012-11-14T20:37:52")
 @StaticMetamodel(Usuarios.class)
 public class Usuarios_ { 
 
